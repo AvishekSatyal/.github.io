@@ -16,4 +16,4 @@ Here’s an ordered list:
 2. Second step
 3. Third step
 
-readme.md
+[View the HTML page](./readme.html)
